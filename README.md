@@ -3,9 +3,11 @@
 <h3 align="center">Make this world a better place code by code</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316”>
 
-- 🌱 I’m currently learning **Master of science in Information Technology at Arizona State University**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmitha-azhahaesan&label=Profile%20views&color=0e75b6&style=flat" alt="sushmitha-azhahaesan" /> </p>
 
-- 💬 Ask me about **System design principles, Data Analytics and Engineering, Deep Learing, Machine Learning**
+- 🌱 I’m currently learning **MS in Information Technology at Arizona State University**
+
+- 💬 Ask me about **System design, Data Analytics and Engineering, Deep Learning**
 
 - 📫 How to reach me **sushmithaalagesan@gmail.com**
 
