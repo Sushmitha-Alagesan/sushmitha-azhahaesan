@@ -1,7 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/e60a33e2b6bfea0a6ed5b4dc9c443227e8d508651e234ee580209439f26d372d/68747470733a2f2f692e696d6775722e636f6d2f7a336f783776352e676966)](https://sushmitha-azhahaesan.io)
 <h1 align="center">Hi 👋, I'm Sushmitha Alagesan</h1>
 <h3 align="center">Make this world a better place code by code</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmitha-azhahaesan&label=Profile%20views&color=0e75b6&style=flat" alt="sushmitha-azhahaesan" /> </p>
 
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/sushmitha-alagesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/sushmitha-alagesan" height="30" width="40" /></a>
+<a href="https:http://www.linkedin.com/in/sushmitha-alagesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/sushmitha-alagesan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
