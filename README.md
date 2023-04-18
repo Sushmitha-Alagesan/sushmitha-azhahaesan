@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmitha-azhahaesan&label=Profile%20views&color=0e75b6&style=flat" alt="sushmitha-azhahaesan" /> </p>
 
-- 🌱 I’m currently learning **MS in Information Technology at ASU**
+- 🌱 I’m currently learning **Master of science in Information Technology at Arizona State University**
 
 - 👨‍💻 All of my projects are available at [portlink](portlink)
 
-- 💬 Ask me about **System design, Data Analytics and Engineering**
+- 💬 Ask me about **System design, Data Analytics and Engineering, Deep learning, Competitive programming**
 
 - 📫 How to reach me **sushmithaalagesan@gmail.com**
 
